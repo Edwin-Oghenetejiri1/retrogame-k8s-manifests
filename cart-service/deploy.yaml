@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: cart-service
-        image: oghenetejiri798/cart-service:latest
+        image: oghenetejiri798/cart-service:24591488659
         ports:
         - containerPort: 8081

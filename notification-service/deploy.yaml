@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: notification-service
-        image: oghenetejiri798/notification-service:latest
+        image: oghenetejiri798/notification-service:24557373782
         ports:
         - containerPort: 8084

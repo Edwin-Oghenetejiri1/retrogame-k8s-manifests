@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: oghenetejiri798/frontend:latest
+        image: oghenetejiri798/frontend:24592968411
         ports:
         - containerPort: 3000

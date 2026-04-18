@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: order-service
-        image: oghenetejiri798/order-service:latest
+        image: oghenetejiri798/order-service:24592369103
         ports:
         - containerPort: 8082

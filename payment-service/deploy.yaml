@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: payment-service
-        image: oghenetejiri798/payment-service:latest
+        image: oghenetejiri798/payment-service:24591899393
         ports:
         - containerPort: 8083

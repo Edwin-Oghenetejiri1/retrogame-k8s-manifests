@@ -1,4 +1,4 @@
-# 🎮 RetroGame K8s Manifests
+# 🎮 RetroGame Shop K8s Manifests
 
 > Kubernetes manifests for RetroGame Shop | GitOps with ArgoCD | Managed by CI/CD pipeline
 

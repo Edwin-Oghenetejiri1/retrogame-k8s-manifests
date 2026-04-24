@@ -25,11 +25,13 @@ Kubernetes performs rolling update
 Zero downtime deployment ✅
 
 ## 📁 Repository Structure
+### Kubernetes Manifests Structure
 
+```text
 retrogame-k8s-manifests/
 ├── frontend/
-│   ├── deploy.yaml       # Deployment manifest
-│   └── svc.yaml          # Service manifest
+│   ├── deploy.yaml             # Deployment manifest
+│   └── svc.yaml                # Service manifest
 ├── product-service/
 │   ├── deploy.yaml
 │   └── svc.yaml
@@ -43,8 +45,9 @@ retrogame-k8s-manifests/
 │   ├── deploy.yaml
 │   └── svc.yaml
 └── notification-service/
-├── deploy.yaml
-└── svc.yaml
+    ├── deploy.yaml
+    └── svc.yaml
+```
 
 ## 🛠️ Manifest Structure
 

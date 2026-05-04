@@ -17,7 +17,7 @@ This repository contains all Kubernetes manifests for the RetroGame microservice
 
 Kubernetes (K8s) is a highly popular open source container orchestration platform originally developed by Google and now maintained by the Cloud Native Computing Foundation (CNCF). It is the industry standard for deploying, scaling and managing containerized applications in production.
 
-Running containers with Docker alone is not enough for production systems. Docker runs containers on a single machine — but what happens when that machine goes down? What happens when traffic spikes and you need more instances? What happens when a container crashes at 3am? Kubernetes solves all of this automatically.
+Running containers with Docker alone is not enough for production systems. Docker runs containers on a single machine but what happens when that machine goes down? What happens when traffic spikes and you need more instances? What happens when a container crashes at 3am? Kubernetes solves all of this automatically.
 
 ### Key Benefits:
 

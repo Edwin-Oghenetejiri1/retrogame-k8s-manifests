@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: product-service
-        image: oghenetejiri798/product-service:24456751119
+        image: oghenetejiri798/product-service:25347941955
         ports:
         - containerPort: 8080
